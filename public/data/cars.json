@@ -1,0 +1,150 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Supra",
+      "description": "A powerful and sporty coupe.",
+      "year": 2020,
+      "price": 45000,
+      "image": "https://th.bing.com/th/id/OIP.wtnGeOlZPz6TxObg5du_JQHaEK?cb=iwp2&rs=1&pid=ImgDetMain"
+      
+    },
+    {
+      "id": 2,
+      "name": "Ford Mustang",
+      "description": "A classic American muscle car.",
+      "price": 55000,
+      "image": "https://th.bing.com/th/id/OIP.EsC84Lx4a6iAxDCImq0OAQHaEK?w=281&h=180&c=7&r=0&o=7&cb=iwp2&dpr=1.3&pid=1.7&rm=3"
+
+    },
+    {
+      "id": 3,
+      "name": "Chevrolet Camaro",
+      "description": "A stylish and fast performance car.",
+      "price": 50000,
+      "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg"
+    },
+    {
+    "id": 4,
+    "name": "Audi R8",
+    "description": "A luxury sports car with a V10 engine.",
+    "price": 142000,
+    "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 5,
+    "name": "Lamborghini Aventador",
+    "description": "A top-tier exotic car with unmatched performance.",
+    "price": 393695,
+    "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 6,
+    "name": "Porsche 911",
+    "description": "An iconic sports coupe with superior handling.",
+    "price": 114000,
+    "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 7,
+    "name": "Ford Mustang",
+    "description": "A classic American muscle car.",
+    "price": 55000,
+    "image": "https://images.pexels.com/photos/100653/pexels-photo-100653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 8,
+    "name": "Ferrari 488",
+    "description": "A luxury supercar with a sleek design.",
+    "price": 262000,
+    "image": "https://images.pexels.com/photos/1025468/pexels-photo-1025468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 9,
+    "name": "Bugatti Chiron",
+    "description": "The ultimate hypercar with over 1500 horsepower.",
+    "price": 2998000,
+    "image": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 10,
+    "name": "Nissan GT-R",
+    "description": "A Japanese performance beast known as Godzilla.",
+    "price": 113540,
+    "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 11,
+    "name": "Toyota Supra",
+    "description": "A modern take on the legendary Japanese sports car.",
+    "price": 50990,
+    "image": "https://images.pexels.com/photos/573045/pexels-photo-573045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 12,
+    "name": "McLaren 720S",
+    "description": "A lightweight supercar with a twin-turbo V8 engine.",
+    "price": 299000,
+    "image": "https://images.pexels.com/photos/1236792/pexels-photo-1236792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 13,
+    "name": "Dodge Challenger",
+    "description": "An American icon with aggressive styling.",
+    "price": 45000,
+    "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 14,
+    "name": "Koenigsegg Jesko",
+    "description": "A limited-production hypercar with mind-blowing speed.",
+    "price": 3000000,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 15,
+    "name": "Rolls Royce Ghost",
+    "description": "A luxury sedan built for comfort and style.",
+    "price": 311900,
+    "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 16,
+    "name": "Mercedes-AMG GT",
+    "description": "A grand tourer that balances speed and luxury.",
+    "price": 116000,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 17,
+    "name": "Aston Martin DB11",
+    "description": "An elegant British sports car with a V12 engine.",
+    "price": 205000,
+    "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 18,
+    "name": "Subaru WRX STI",
+    "description": "A rally-bred sedan with turbocharged performance.",
+    "price": 43000,
+    "image": "https://images.pexels.com/photos/100653/pexels-photo-100653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 19,
+    "name": "Mazda RX-7",
+    "description": "A rotary-powered legend with iconic styling.",
+    "price": 38000,
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "id": 20,
+    "name": "Pagani Huayra",
+    "description": "An exotic hypercar known for its craftsmanship.",
+    "price": 3400000,
+    "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  }
+]
+
+  
+
+
+  
